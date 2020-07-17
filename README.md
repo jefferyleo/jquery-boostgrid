@@ -5,11 +5,11 @@ Nice, sleek and intuitive. A grid control especially designed for bootstrap.
 
 ## Getting Started
 
-**jQuery Bootgrid** is a UI component written for **jQuery** and **Bootstrap** (Bootstrap isn't necessarily required).
+**jQuery Boostgrid** is a UI component written for **jQuery** and **Bootstrap** (Bootstrap isn't necessarily required).
 
 Everything you need to start quickly is:
 
-1. Include **jQuery**, **jQuery Bootgrid** and **Bootstrap** libraries in your HTML code.
+1. Include **jQuery**, **jQuery Boostgrid** and **Bootstrap** libraries in your HTML code.
 2. Define your table layout and your data columns by adding the `data-column-id` attribute.
 3. Specify your data URL used to fill your data table and set ajax option to `true` directly on your table via data API.
 
@@ -34,7 +34,7 @@ Everything you need to start quickly is:
         </table>
         <!-- Scripts -->
         <script src="jquery.js"></script> 
-        <script src="jquery.bootgrid.js"></script>
+        <script src="jquery.boostgrid.js"></script>
     </body>
 </html>
 ```
@@ -59,4 +59,4 @@ Instructions will follow soon!
 
 ## License
 
-Copyright (c) 2014-2015 Rafael J. Staib Licensed under the [MIT license](https://github.com/rstaib/jquery-bootgrid/blob/master/LICENSE.txt).
+Copyright (c) 2020-Present JefferyLeo Licensed under the [MIT license](https://github.com/jefferyleo/jquery-boostgrid/blob/master/LICENSE.txt).
